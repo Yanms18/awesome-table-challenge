@@ -7,7 +7,6 @@ This is a mini Biweekly coding challenge to help **circle 12** group members (of
     - [The challenge](#the-challenge)
     - [Goals](#goals)
     - [Workflow](#workflow)
-    -
 - [Screenshot](#screenshot)
 - [Resources](#resources)
 - [Links](#links)
